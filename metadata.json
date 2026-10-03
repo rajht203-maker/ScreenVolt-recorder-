@@ -1,0 +1,6 @@
+{
+  "name": "ScreenVolt",
+  "description": "ScreenVolt: High-performance HD screen recorder, live audio visualizer HUD, and video studio suite for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
